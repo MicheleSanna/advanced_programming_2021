@@ -1,5 +1,3 @@
-#include <iostream>
-
 template <typename T, typename N>
 class stack_iterator;
 
